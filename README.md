@@ -71,10 +71,10 @@ The system is divided into two main components:
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher
 - NetBeans IDE (recommended)
-- MySQL database server
+- PostgreSQL or MySQL database server(this project uses PostgreSQL)
 
 ### Setup Instructions
-1. Start the MySQL database server
+1. Start the PostgreSQL or MySQL database server
 2. Run the ServerProgram first:
    ```bash
    cd ServerProgram
